@@ -1,6 +1,12 @@
 {
   "name": "nextn",
   "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
@@ -290,6 +296,4 @@
     },
     "node_modules/@esbuild/linux-ia32": {
       "version": "0.25.3",
-      "resolved": "https://registry.npmjs.org/@esbuild/linux-ia32/-/linux-ia32-0.25.3.tgz",
-      "integrity": "sha512-yplPOpczHOO4jTYKmuYuANI3WhvIPSVANGcNUeMlxH4tw",
-    }
+      "resolved": "https://registry.npmjs.org/@esbuild/linux
