@@ -295,5 +295,4 @@
       }
     },
     "node_modules/@esbuild/linux-ia32": {
-      "version": "0.25.3",
-      "resolved": "https://registry.npmjs.org/@esbuild/linux
+      "version": "0.25.3"
